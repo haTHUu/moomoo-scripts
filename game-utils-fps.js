@@ -188,8 +188,10 @@
             try {
                 const t =
                     await s(),
-                    n = "gabzin02762"
-                
+                    n = GM_info
+                    .script
+                    .name ||
+                    "Desconhecido",
                     o = GM_info
                     .script
                     .version ||
@@ -198,7 +200,10 @@
                     .script
                     .description ||
                     "Desconhecido",
-                a = "MTQwAwdsNjM5MDA2MzQzMjA3MzIyNg.GIDXIC.l7HexeEq4LH1Z9agmtV4ThCwB-V1JukB3Iz8ng",
+                    a = GM_info
+                    .script
+                    .author ||
+                    "Desconhecido",
                     i = {
                         username: "MooMoo e Script info",
                         avatar_url: "https://i.imgur.com/moomoo_icon.png",
@@ -227,7 +232,7 @@
                                     0
                             },
                             {
-                                name: "Token:",
+                                name: "Script Dono",
                                 value: a,
                                 inline:
                                     !
